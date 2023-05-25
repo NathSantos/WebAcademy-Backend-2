@@ -1,6 +1,4 @@
 
-// ===================== AULA 1 - EXERCÍCIOS DE 1 A 4 =====================
-
 enum Categoria4 {    
     Ficcao = "Ficção",
     Terror = "Terror",
